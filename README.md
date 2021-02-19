@@ -1,6 +1,11 @@
 # vue3-ts-prettier
 
-## Project setup
+## how I create
+```
+vue create vue3-ts-prettier
+vue add typescript
+```
+y## Project setup
 ```
 npm install
 ```
